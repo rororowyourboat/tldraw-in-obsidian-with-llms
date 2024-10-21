@@ -60,3 +60,5 @@ Tldraw in Obsidian is now available on the official community plugins list!
 ## License and Attribution
 
 All [Tldraw's](https://github.com/tldraw/tldraw) code is theirs and I did not change any of it. Also shout out to the [Excalidraw plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) for inspiration on how I should structure this Tldraw plugin.
+Shoutout to https://github.com/holxsam/tldraw-in-obsidian for his version that i built features on top of!!
+
